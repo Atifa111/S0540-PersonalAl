@@ -13,6 +13,3 @@ This repository contains submissions for **Esan_ss2_Coding_PersonalAl**.
 - **xPore: An AI-Powered App for Bioinformaticians**: ✅ *Completed*  
 
 ---
-
-Feel free to explore the repository for more details about each project.
-
